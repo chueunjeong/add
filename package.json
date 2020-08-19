@@ -10,7 +10,8 @@
   "dependencies": {
     "caver-js": "^0.0.2-m",
     "connect-privkey-to-provider": "^0.0.3",
-    "spin.js": "^4.0.0"
+    "spin.js": "^4.0.0",
+    "truffle": "^4.1.15"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^4.6.0",
